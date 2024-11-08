@@ -1,0 +1,6 @@
+diffusers
+transformers
+accelerate
+torch
+ibm-watsonx-ai
+ibm-cloud-sdk-core
