@@ -28,6 +28,13 @@ Here’s a breakdown of how **Faselah** works:
 
 5. **Learning Through Play**: As the child explores the story, they encounter Arabic vocabulary and sentences within context. This intuitive learning approach builds language skills while keeping the focus on enjoyment and storytelling.
 
+# Evaluation and Responsibilities
+Story and Image Safety: Every story and its accompanying images are reviewed for suitability, ensuring they are safe, engaging, and appropriate for children. This attention to detail provides parents with peace of mind, knowing that each story meets high standards for quality and appropriateness.
+
+Alignment with Islamic Values: To honor and uphold Islamic values, the ALLAM model is applied to assess and guide the content generation process, ensuring that stories reflect cultural and moral principles accurately. During development, human reviewers complemented this process by providing a final review of each story’s themes, language, and imagery, creating a thoughtful balance between AI-driven content and cultural alignment.
+
+By combining the ALLAM model and human oversight in development, and continuing with automated ALLAM checks during user interactions, Faselah delivers a consistent, culturally respectful, and enjoyable storytelling experience.
+
 # UX/UI:
 https://www.figma.com/design/IMoJRmPFACWaW3uNkZn1yu/Untitled?node-id=23-11&node-type=canvas&m=dev
 
