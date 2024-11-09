@@ -28,6 +28,9 @@ Here’s a breakdown of how **Faselah** works:
 
 5. **Learning Through Play**: As the child explores the story, they encounter Arabic vocabulary and sentences within context. This intuitive learning approach builds language skills while keeping the focus on enjoyment and storytelling.
 
+# UX/UI:
+https://www.figma.com/design/IMoJRmPFACWaW3uNkZn1yu/Untitled?node-id=23-11&node-type=canvas&m=dev
+
 ### Why It’s Effective
 
 Faselah is designed not only to be a storytelling tool but also to aid in language development. By making the story interactive and using familiar values, Faselah creates an environment where children can learn Arabic naturally, similar to how they learn through everyday conversations and play. Each story session brings both linguistic growth and moral lessons, helping children connect with the Arabic language and cultural values in a meaningful way.
