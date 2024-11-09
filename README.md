@@ -1,3 +1,5 @@
+<img width="248" alt="Screenshot 2024-11-09 at 11 09 42 AM" src="https://github.com/user-attachments/assets/f7d466eb-b9d3-4d18-b93f-9d46b13af5b8">
+
 # Faselah
 
 Faselah is an innovative application that generates personalized bedtime stories for children in Arabic. This app aims to make learning Arabic fun and engaging for kids by combining language learning with storytelling. With themes and values carefully crafted into each tale, Faselah helps parents and children enjoy bedtime stories that are both educational and entertaining.
