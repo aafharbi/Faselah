@@ -14,10 +14,23 @@ Value-based Stories: Stories can be tailored to teach specific values, such as k
 Interactive Storytelling: With lively illustrations and animations, Faselah creates an immersive experience that keeps children engaged from beginning to end.
 
 
-# Usage
-Open Faselah and navigate to the story creation screen.
-Enter the child’s name and select a value or theme for the story.
-The app will generate a custom story with animations that can be read aloud or explored interactively.
+Here’s a breakdown of how **Faselah** works:
+
+### How It Works
+
+1. **Open the App**: Parents start by opening the Faselah app on their mobile device and navigating to the story creation screen.
+
+2. **Input Details**: On this screen, they can enter the child’s name, choose a theme or value (e.g., kindness, curiosity, friendship), and select any other custom preferences for the story.
+
+3. **Generate the Story**: With the details entered, Faselah’s AI system instantly creates a custom bedtime story. The story is crafted to include the chosen values and features the child’s name, making it a personal and engaging experience.
+
+4. **Animated and Interactive**: Faselah doesn’t just deliver text; it brings stories to life with animations and interactive elements. Each page features vibrant illustrations, animations, and sounds to captivate young minds and make the story memorable.
+
+5. **Learning Through Play**: As the child explores the story, they encounter Arabic vocabulary and sentences within context. This intuitive learning approach builds language skills while keeping the focus on enjoyment and storytelling.
+
+### Why It’s Effective
+
+Faselah is designed not only to be a storytelling tool but also to aid in language development. By making the story interactive and using familiar values, Faselah creates an environment where children can learn Arabic naturally, similar to how they learn through everyday conversations and play. Each story session brings both linguistic growth and moral lessons, helping children connect with the Arabic language and cultural values in a meaningful way.
 # Future Plans
 We’re continuously working to improve Faselah and expand its features. Future updates will include:
 
