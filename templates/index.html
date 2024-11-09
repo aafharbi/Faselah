@@ -1,0 +1,79 @@
+<!-- templates/index.html -->
+<!DOCTYPE html>
+<html dir="rtl" lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>فسيلة - قصص الأطفال</title>
+    <link rel="stylesheet" href="{{ url_for('static', path='css/style.css') }}">
+</head>
+<body>
+    <!-- شاشة البداية -->
+    <div id="splashScreen" class="splash-screen">
+        <div class="splash-shapes">
+            <div class="shape mint-star"></div>
+            <div class="shape yellow-blob"></div>
+            <div class="shape pink-circle"></div>
+            <div class="shape blue-half"></div>
+            <div class="shape purple-arc"></div>
+        </div>
+        <h1 class="splash-logo">فسيلة</h1>
+    </div>
+
+    <!-- المحتوى الرئيسي -->
+    <div id="mainContent" class="main-content" style="display: none;">
+        <h1 class="main-logo">فسيلة</h1>
+        
+        <div class="steps-container">
+            <div class="step">
+                <div class="step-icon">👶</div>
+                <h3>أنشئ قصة لطفلك</h3>
+                <p>بالقيمة الأخلاقية التي تريدها</p>
+            </div>
+            <div class="step">
+                <div class="step-icon">📚</div>
+                <h3>ستصلك قصة ممتعة</h3>
+                <p>مع الصور التوضيحية</p>
+            </div>
+            <div class="step">
+                <div class="step-icon">⭐</div>
+                <h3>سيتعلم طفلك الذكاء</h3>
+                <p>والقيم الأخلاقية</p>
+            </div>
+        </div>
+
+        <div class="input-form">
+            <input type="text" id="childName" placeholder="اسم الطفل">
+            <input type="text" id="value" placeholder="القيمة المراد تعلمها">
+            <button id="generateButton">إنشاء القصة</button>
+        </div>
+    </div>
+
+    <!-- شاشة القصة -->
+    <div id="storyPage" class="story-page" style="display: none;">
+        <div class="story-navigation">
+            <button class="nav-button prev">السابق</button>
+            <div class="page-indicator">
+                الصفحة <span class="current-page">1</span> من <span class="total-pages">1</span>
+            </div>
+            <button class="nav-button next">التالي</button>
+        </div>
+        <div class="story-content">
+            <div class="story-text-container">
+                <div class="story-image"></div>
+                <div class="story-text"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- شاشة التقدم -->
+    <div id="progressScreen" class="progress-screen" style="display: none;">
+        <h2>جاري إنشاء القصة...</h2>
+        <div class="progress-bar">
+            <div class="progress"></div>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', path='js/main.js') }}"></script>
+</body>
+</html>

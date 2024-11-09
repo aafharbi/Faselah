@@ -1,6 +1,6 @@
-diffusers
-transformers
-accelerate
-torch
-ibm-watsonx-ai
+echo "
+fastapi
+pydantic
 ibm-cloud-sdk-core
+requests
+pillow
